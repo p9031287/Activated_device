@@ -1,0 +1,1 @@
+# Activated_device
