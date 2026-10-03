@@ -21,7 +21,7 @@
         "device_id": "c9dbd7ed06bccd63",
         "key": "Koskhol",
         "expirydate": "31-12-2099",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "c9dbd7ed06bccd63",
