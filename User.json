@@ -19,12 +19,6 @@
     },
     {
         "device_id": "c9dbd7ed06bccd63",
-        "key": "Koskhol",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c9dbd7ed06bccd63",
         "key": "Hashemi",
         "expirydate": "11-10-2068",
         "Allowoffline": false
