@@ -1,56 +1,50 @@
 [
-    {
-        "device_id": "skkd",
-        "key": "@ks",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "94942095df8cb975",
-        "key": "Pawel",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c9dbd7ed06bccd63",
-        "key": "Artin",
-        "expirydate": "31-12-2099",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "f461255520016d3d",
-        "key": "Arshia",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c9dbd7ed06bccd63",
-        "key": "Artin",
-        "expirydate": "9-10-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c9dbd7ed06bccd63",
-        "key": "Hashemi",
-        "expirydate": "11-10-2068",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "56d5379425d8253e",
-        "key": "Mmd11",
-        "expirydate": "10-10-2689",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "94942095df8cb975",
-        "key": "Pawel",
-        "expirydate": "4-10-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "85ea117c3b474c4f",
-        "key": "Erene",
-        "expirydate": "15-06-2099",
-        "Allowoffline": false
-    }
+  {
+    "device_id": "94942095df8cb975",
+    "key": "Pawel",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "c9dbd7ed06bccd63",
+    "key": "Artin",
+    "expirydate": "31-12-2099",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "f461255520016d3d",
+    "key": "Arshia",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "c9dbd7ed06bccd63",
+    "key": "Artin",
+    "expirydate": "9-10-9999",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "c9dbd7ed06bccd63",
+    "key": "Hashemi",
+    "expirydate": "11-10-2068",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "56d5379425d8253e",
+    "key": "Mmd11",
+    "expirydate": "10-10-2689",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "94942095df8cb975",
+    "key": "Pawel",
+    "expirydate": "4-10-2025",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "85ea117c3b474c4f",
+    "key": "Erene",
+    "expirydate": "15-06-2099",
+    "Allowoffline": false
+  }
 ]
