@@ -46,11 +46,5 @@
     "key": "Erene",
     "expirydate": "15-06-2099",
     "Allowoffline": false
-  },
-  {
-    "device_id": "Bbbb",
-    "key": "Gff",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
   }
 ]
