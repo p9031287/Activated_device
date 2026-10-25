@@ -16,11 +16,5 @@
     "key": "Vbbv",
     "expirydate": "31-12-2099",
     "Allowoffline": false
-  },
-  {
-    "device_id": "آیدی",
-    "key": "رمز",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
   }
 ]
